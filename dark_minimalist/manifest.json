@@ -1,0 +1,45 @@
+{
+   "name": "Dark Minimalist",
+   "theme": {
+      "colors": {
+         "frame": [ 34, 34, 34 ],
+         "frame_inactive": [ 0, 0, 0 ],
+         "frame_incognito": [ 0, 0, 0 ],
+         "frame_incognito_inactive": [ 0, 0, 0 ],
+         "toolbar": [ 25, 25, 25 ],
+         "tab_text": [ 150, 150, 150 ],
+         "tab_background_text": [ 90, 90, 90 ],
+         "bookmark_text": [ 200, 200, 200 ],
+         "ntp_background": [ 34, 34, 34 ],
+         "ntp_text": [ 34, 34, 34 ],
+         "ntp_link": [ 34, 34, 34 ],
+         "ntp_link_underline": [ 34, 34, 34 ],
+         "ntp_header": [ 0, 0, 0 ],
+         "ntp_section": [ 0, 0, 0 ],
+         "ntp_section_text": [ 34, 34, 34 ],
+         "ntp_section_link": [ 34, 34, 34 ],
+         "ntp_section_link_underline": [ 34, 34, 34 ],
+         "control_background": [ 0, 0, 0 ],
+         "button_background": [ 34, 34, 34 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_frame_inactive": "images/theme_frame.png",
+         "theme_frame_incognito": "images/theme_frame.png",
+         "theme_frame_incognito_inactive": "images/theme_frame.png",
+         "theme_toolbar": "images/theme_toolbar.png",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_tab_background_incognito": "images/theme_tab_background.png",
+         "theme_tab_background_v": "images/theme_tab_background.png"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0.3 ],
+         "frame": [ 0, 0, 0 ],
+         "frame_inactive": [ 0, 0, 0 ],
+         "frame_incognito": [ 0, 0, 0 ],
+         "frame_incognito_inactive": [ 0, 0, 0 ],
+         "backgrond_tab": [ 0, 0, 0 ]
+      }
+   },
+   "version": "1"
+}
