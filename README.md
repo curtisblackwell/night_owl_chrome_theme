@@ -1,4 +1,4 @@
-![Dark Minimalist](screenshot.jpg)
+![Dark Minimalist](dark_minimalist_chrome_theme/raw/master/screenshot.jpg)
 # How to Install
 1. Download and unzip files.
 2. Go to [Extensions](chrome://chrome/extensions/) in Chrome.
