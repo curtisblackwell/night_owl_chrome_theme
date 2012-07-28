@@ -1,5 +1,11 @@
 {
-   "name": "Dark Minimalist",
+   "name": "Night Owl",
+   "version": "1",
+   "icons": {
+      "16": "icons/16.png",
+      "48": "icons/48.png",
+      "128": "icons/128.png"
+   },
    "theme": {
       "colors": {
          "frame": [ 34, 34, 34 ],
@@ -40,6 +46,5 @@
          "frame_incognito_inactive": [ 0, 0, 0 ],
          "backgrond_tab": [ 0, 0, 0 ]
       }
-   },
-   "version": "1"
+   }
 }
